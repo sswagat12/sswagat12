@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ML and AI
 - 📫 How to reach me ........email: sswagat12@gmail.com....Ph: 8093478450
 
-Thanks for visiting by in the current pandemic, I wish you and your family is safe. Thanks again
+Thanks for visiting by in the current pandemic, I wish you and your family is safe.
 
 <!---
 sswagat12/sswagat12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
